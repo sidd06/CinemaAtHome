@@ -1,0 +1,18 @@
+.postersize {
+	min-width: 38cm;
+	max-height: 14cm;
+}
+
+.thumbposter {
+	width: 300px;
+	height: 200px
+}
+
+ label.error {
+  /* color to match Bootstraps error class */
+  
+	color: #B94A48;
+	
+
+}
+
